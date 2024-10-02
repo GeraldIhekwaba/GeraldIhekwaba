@@ -1,4 +1,4 @@
-![Profile views](https://komarev.com/ghpvc/?username=GeraldIhekwaba) ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
+![Profile views](https://komarev.com/ghpvc/?username=GeraldIhekwaba)
 
 ## Hi there 👋, Welcome to my Github Profile!
 Hi, I'm Gerald, an aspiring Cybersecurity professional with a Master's in Cybersecurity. I'm passionate about network security, incident response, and all things Blue Team. Currently, I'm working on projects involving honeypots and SIEM deployments.
