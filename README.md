@@ -8,8 +8,7 @@ Feel free to explore my repositories and projects!
 ### Connect with me: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerald-ihekwaba/)
 
-<img src="https://media.giphy.com/media/26FPO4fVzHKgfeSg4/giphy.gif" width="400"/>
-
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="400"/>
 
 ## 🔧 Technologies & Tools:
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python) 
