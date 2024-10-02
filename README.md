@@ -19,7 +19,7 @@ Feel free to explore my repositories and projects!
 ## 🚀 Projects:
 
 - **[Honeypot Deployment](https://github.com/username/honeypot-project)**: A project focused on setting up and monitoring a honeypot to detect unauthorized access attempts.
-- **[SIEM Setup with Microsoft Azure](https://github.com/username/siem-azure-project)**: Configuration of a Security Information and Event Manager using Microsoft Azure.
+_- **[SIEM Setup with Microsoft Azure](https://github.com/username/siem-azure-project)**: Configuration of a Security Information and Event Manager using Microsoft Azure.
 
 ## 📊 GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
