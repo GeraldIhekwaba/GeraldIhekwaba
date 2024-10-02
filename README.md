@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi there 👋, Welcome to my Github Profile!
+Hi, I'm Gerald, an aspiring Cybersecurity professional with a Master's in Cybersecurity. I'm passionate about network security, incident response, and all things Blue Team. Currently, I'm working on projects involving honeypots and SIEM deployments.
 
+Feel free to explore my repositories and projects!
 ![Profile views](https://komarev.com/ghpvc/?username=GeraldIhekwaba)
 
 <!--
