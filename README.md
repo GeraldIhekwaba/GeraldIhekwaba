@@ -5,6 +5,8 @@ Hi, I'm Gerald, an aspiring Cybersecurity professional with a Master's in Cybers
 
 Feel free to explore my repositories and projects!
 
+### Connect with me: 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/yourlinkedinprofile/)
 
 <!--
 **GeraldIhekwaba/GeraldIhekwaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
