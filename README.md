@@ -29,7 +29,7 @@ Feel free to explore my repositories and projects!
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GeraldIhekwaba&theme=dark)
 
 ## ✨ Fun Facts:
-- 🎮 I love gaming and watching anime.
+- 🎮 I love gaming and playing football.
 - 💻 I'm constantly experimenting with new technologies.
 - 🌱 Currently learning advanced defensive cybersecurity techniques.
 
