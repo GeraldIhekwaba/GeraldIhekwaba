@@ -8,6 +8,8 @@ Feel free to explore my repositories and projects!
 ### Connect with me: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerald-ihekwaba/)
 
+<img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="400"/>
+
 <!--
 **GeraldIhekwaba/GeraldIhekwaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
