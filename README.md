@@ -10,6 +10,7 @@ Feel free to explore my repositories and projects!
 
 <img src="https://media.giphy.com/media/26FPO4fVzHKgfeSg4/giphy.gif" width="400"/>
 
+
 ## 🔧 Technologies & Tools:
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python) 
 ![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux) 
