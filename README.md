@@ -26,7 +26,7 @@ Feel free to explore my repositories and projects!
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeraldIhekwaba&layout=compact&theme=dark)
 
 ## 🔥 Streak Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GeraldIhekwaba&theme=dark)
 
 ## ✨ Fun Facts:
 - 🎮 I love gaming and watching anime.
