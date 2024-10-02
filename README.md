@@ -18,7 +18,7 @@ Feel free to explore my repositories and projects!
   </a>
 - **[Certified in Cybersecurity (CC) - ISC2](https://www.credly.com/badges/e4d46816-8ab6-4dcc-92e4-80ef61109605/public_url)**  
   <a href="https://www.credly.com/badges/e4d46816-8ab6-4dcc-92e4-80ef61109605/public_url">
-    <img src="https://images.credly.com/size/340x340/images/8d2b9a0a-e4c7-4f5a-9ae7-eca7077cb294/CC-icon.png" alt="ISC2 Certified in Cybersecurity Badge" width="150">
+    <img src="https://images.credly.com/size/680x680/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" alt="ISC2 Certified in Cybersecurity Badge" width="150">
   </a>
 
 ## 🔧 Technologies & Tools:
