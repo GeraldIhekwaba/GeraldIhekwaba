@@ -19,11 +19,11 @@ Feel free to explore my repositories and projects!
 ## 🚀 Projects:
 
 - **[Honeypot Deployment](https://github.com/GeraldIhekwaba/honeypot-project)**: A project focused on setting up and monitoring a honeypot to detect unauthorized access attempts.
-<- **[SIEM Setup with Microsoft Azure](https://github.com/username/siem-azure-project)**: Configuration of a Security Information and Event Manager using Microsoft Azure.>
+
 
 ## 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeraldIhekwaba&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeraldIhekwaba&layout=compact&theme=dark)
 
 ## 🔥 Streak Stats:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
