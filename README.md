@@ -16,7 +16,10 @@ Feel free to explore my repositories and projects!
   <a href="https://www.credly.com/badges/06beacfa-9673-43c4-a4f8-d44d2c5f5b1b/public_url">
     <img src="https://images.credly.com/size/340x340/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" alt="CompTIA Security+ Badge" width="150">
   </a>
-- **Certified in Cybersecurity (CC) - ISC2**
+- **[Certified in Cybersecurity (CC) - ISC2](https://www.credly.com/badges/e4d46816-8ab6-4dcc-92e4-80ef61109605/public_url)**  
+  <a href="https://www.credly.com/badges/e4d46816-8ab6-4dcc-92e4-80ef61109605/public_url">
+    <img src="https://images.credly.com/size/340x340/images/8d2b9a0a-e4c7-4f5a-9ae7-eca7077cb294/CC-icon.png" alt="ISC2 Certified in Cybersecurity Badge" width="150">
+  </a>
 
 ## 🔧 Technologies & Tools:
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python) 
