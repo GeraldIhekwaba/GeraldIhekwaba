@@ -12,7 +12,10 @@ Feel free to explore my repositories and projects!
 
 ## Certifications
 
-- **CompTIA Security+**
+- - **[CompTIA Security+](https://www.your-badge-url.com)**  
+  <a href="https://www.credly.com/badges/06beacfa-9673-43c4-a4f8-d44d2c5f5b1b/public_url">
+    <img src="https://www.comptia-badge-image-url.com" alt="CompTIA Security+ Badge" width="150">
+  </a>
 - **Certified in Cybersecurity (CC) - ISC2**
 
 ## 🔧 Technologies & Tools:
