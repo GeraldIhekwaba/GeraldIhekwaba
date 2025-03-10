@@ -32,12 +32,6 @@ Feel free to explore my repositories and projects!
 - **[Honeypot Deployment](https://github.com/GeraldIhekwaba/honeypot-project)**: A project focused on setting up and monitoring a honeypot to detect unauthorized access attempts.
 
 
-## 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeraldIhekwaba&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeraldIhekwaba&layout=compact&theme=dark)
-
-## 🔥 Streak Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GeraldIhekwaba&theme=dark)
 
 ## ✨ Fun Facts:
 - 🎮 I love gaming and playing football.
